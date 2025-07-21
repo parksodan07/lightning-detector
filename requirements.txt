@@ -3,3 +3,6 @@ geopy==2.4.1
 APScheduler==3.11.0
 gunicorn==21.2.0
 requests==2.32.3
+streamlit==1.35.0
+streamlit-folium==0.18.0
+folium==0.16.0
